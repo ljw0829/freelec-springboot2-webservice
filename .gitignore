@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.gradle
+.idea // 인텔리 제이 실행시 어차피 생성되는 파일이기에 추가하지 않는다.
